@@ -1,0 +1,13 @@
+{
+  "detail-type": [
+    "EC2 Instance State-change Notification"
+  ],
+  "source": [
+    "aws.ec2"
+  ],
+  "detail": {
+    "state": [
+      "running"
+    ]
+  }
+}
