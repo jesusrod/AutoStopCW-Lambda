@@ -10,7 +10,7 @@ Abstract : ReadMe Document
 Revision History : - 1.0.0 | 07/05/2020 Initial Version
 Author : Jesus Rodriguez
 
-##################### Automation SQL Deployment.##########################################################################
+##################### Automation Stop and Start.##########################################################################
 YOU ACKNOWLEDGE AND AGREE THAT THE SCRIPT IS PROVIDED FREE OF CHARGE "AS IS" AND "AVAILABLE" BASIS, AND THAT YOUR
 USE OF RELIANCE UPON THE APPLICATION OR ANY THIRD PARTY CONTENT AND SERVICES ACCESSED THEREBY IS AT YOUR SOLE RISK AND
 DISCRETION. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
