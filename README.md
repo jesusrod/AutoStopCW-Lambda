@@ -10,7 +10,7 @@ Abstract : ReadMe Document
 Revision History : - 1.0.0 | 07/05/2020 Initial Version
 Author : Jesus Rodriguez
 
-##################### Automation Stop and Start.##########################################################################
+##################### Automation Stop and Start.############################################
 YOU ACKNOWLEDGE AND AGREE THAT THE SCRIPT IS PROVIDED FREE OF CHARGE "AS IS" AND "AVAILABLE" BASIS, AND THAT YOUR
 USE OF RELIANCE UPON THE APPLICATION OR ANY THIRD PARTY CONTENT AND SERVICES ACCESSED THEREBY IS AT YOUR SOLE RISK AND
 DISCRETION. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
@@ -19,7 +19,7 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSE
 WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-##########################################################################################################################
+############################################################################################
 
 # AutoStopCW-Lambda
 Lambda Script to Apply CW alarm to Stop an EC2 instance based on tags when the threshold is met.
